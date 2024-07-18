@@ -44,5 +44,15 @@ The project follows a structured data science process:
 2. Ensure you have Python and the necessary libraries installed.
 3. Open the Jupyter Notebook (`index.ipynb`) and run the cells sequentially to reproduce the analysis and results.
 
+
+## Data Understanding
+
+The initial phase of the project involves importing necessary libraries such as pandas, numpy, matplotlib, seaborn, and various sklearn modules for preprocessing, model selection, and evaluation. The dataset is then loaded for inspection, revealing it contains 21,597 rows and 21 columns, encompassing a wide range of property characteristics.
+
+## Conclusion
+
+This project aims to provide a comprehensive analysis of the King County House Sales dataset to aid a real estate agency in making informed decisions regarding property sales and renovations. Through meticulous data preparation, exploratory analysis, and model development, we strive to uncover the factors that significantly influence house prices in King County, Washington.
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
