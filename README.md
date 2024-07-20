@@ -7,8 +7,8 @@ This project focuses on analyzing the King County House Sales dataset to provide
 - Aggrey Timbwa
 - Alex Irungu
 - Annah Mukethe
-- Brian Ouko
 - Petra Kibugu
+- Brian Ouko
 
 **Group:** GROUP 16  
 **Pace:** Part Time  
